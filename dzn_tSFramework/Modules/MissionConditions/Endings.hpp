@@ -1,15 +1,15 @@
 class CfgDebriefing
-{  
-    class WIN
-    {
-        title = "Задание выполнено";
-        subtitle = "Успех!";
-        description = "Задача выполнена";
-    };                  
-    class WIPED
-    {
-        title = "Задание провалено";
-        subtitle = "Все погибли!";
-        description = "Такие дела...";
-    };
+{
+	class WIN
+	{
+		title = "Миссия выполнена";
+		subtitle = "Радиоцентр захвачен.";
+		description = "Ждём кавалерию.";
+	};
+	class WIPED
+	{
+		title = "Миссия провалена";
+		subtitle = "Мы потеряли лучших...";
+		description = "мы недооценили картель...";
+	};
 };

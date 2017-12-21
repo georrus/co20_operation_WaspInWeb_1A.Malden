@@ -10,15 +10,15 @@
 
 
 /* "Platoon Squad" */ 
-A "Platoon Leader"			TO "kit_swat_pl" 	 KIT
+A "Platoon Leader"				TO "kit_swat_pl" 	 KIT
 , A "Platoon Sergeant"			TO "kit_swat_sl"	 KIT
 /*
  *	NATO 1-4-4
  */
 , A "1'1 Squad Leader"			TO "kit_swat_sl"	 KIT
 , A "1'2 Squad Leader"			TO "kit_swat_sl"	 KIT
-, A "RED - FTL"					TO "kit_swat_sl"	 KIT
-, A "BLUE - FTL"				TO "kit_swat_sl"	 KIT
+, A "RED - FTL"					TO "kit_swat_ftl"	 KIT
+, A "BLUE - FTL"				TO "kit_swat_ftl"	 KIT
 , A "Automatic Rifleman"		TO "kit_swat_ar"	 KIT
 , A "Grenadier"					TO "kit_swat_gr"	 KIT
 , A "Rifleman"					TO "kit_swat_r"	 	 KIT

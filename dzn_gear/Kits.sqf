@@ -73,6 +73,16 @@ kit_swat_sl = [
 	["<VEST ITEMS >> ",[["ACE_IR_Strobe_Item",1],["HANDGUN MAG",2],["hlc_30rnd_556x45_mdim_HK33",7],["HandGrenade",1]]],
 	["<BACKPACK ITEMS >> ",[["ACE_EntrenchingTool",1],["ACE_HandFlare_Red",1],["ACE_M84",1],["Chemlight_red",2],["HandGrenade",1],["hlc_30rnd_556x45_mdim_HK33",4]]]
 ];
+kit_swat_ftl = [
+	["<EQUIPEMENT >>  ","demian2435_swat_man_uniform","demian2435_sniper_vest","TRYK_B_Belt_BLK","demian2435_swat_helmet","CUP_RUS_Balaclava_blk"],
+	["<PRIMARY WEAPON >>  ","hlc_rifle_hk33a2RIS","hlc_30rnd_556x45_b_HK33",["hlc_muzzle_556NATO_KAC","rhsusf_acc_anpeq15_bk","optic_ACO_grn",""]],
+	["<LAUNCHER WEAPON >>  ","","",["","","",""]],
+	["<HANDGUN WEAPON >>  ","CUP_hgun_Glock17_blk","CUP_17Rnd_9x19_glock17",["muzzle_snds_L","CUP_acc_Glock17_Flashlight","optic_MRD",""]],
+	["<ASSIGNED ITEMS >>  ", ASSIGNED_ITEMS_L],
+	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS_L]],
+	["<VEST ITEMS >> ",[["ACE_IR_Strobe_Item",1],["HANDGUN MAG",1],["hlc_30rnd_556x45_mdim_HK33",7],["HandGrenade",2]]],
+	["<BACKPACK ITEMS >> ",[["ACE_EntrenchingTool",1],["ACE_DefusalKit",1],["ACE_HandFlare_Red",1],["Chemlight_red",2],["HandGrenade",1],["hlc_30rnd_556x45_mdim_HK33",3],["ACE_M84",1],["SmokeShell",1],["HANDGUN MAG",1]]]
+];
 kit_swat_r = [
 	["<EQUIPEMENT >>  ","demian2435_swat_man_uniform","demian2435_sniper_vest","TRYK_B_Belt_BLK","demian2435_swat_helmet","CUP_RUS_Balaclava_blk"],
 	["<PRIMARY WEAPON >>  ","hlc_rifle_hk33a2RIS","hlc_30rnd_556x45_b_HK33",["hlc_muzzle_556NATO_KAC","rhsusf_acc_anpeq15_bk","optic_ACO_grn",""]],
@@ -83,25 +93,25 @@ kit_swat_r = [
 	["<VEST ITEMS >> ",[["ACE_IR_Strobe_Item",1],["HANDGUN MAG",1],["hlc_30rnd_556x45_mdim_HK33",7],["HandGrenade",2]]],
 	["<BACKPACK ITEMS >> ",[["ACE_EntrenchingTool",1],["ACE_DefusalKit",1],["ACE_HandFlare_Red",1],["Chemlight_red",2],["HandGrenade",1],["hlc_30rnd_556x45_mdim_HK33",3],["ACE_M84",1],["SmokeShell",1],["HANDGUN MAG",1]]]
 ];
-kit_police_ar = [
-	["<EQUIPEMENT >>  ","demian2435_police_man_uniform","demian2435_police_vest","TRYK_B_Belt_BLK","",""],
-	["<PRIMARY WEAPON >>  ","rhs_weap_m4_carryhandle_mstock","rhs_mag_30Rnd_556x45_M855_Stanag",["","","optic_Yorris",""]],
+kit_swat_ar = [
+	["<EQUIPEMENT >>  ","demian2435_swat_man_uniform","demian2435_sniper_vest","TRYK_B_Belt_BLK","demian2435_swat_helmet","TRYK_US_ESS_Glasses"],
+	["<PRIMARY WEAPON >>  ","hlc_rifle_falosw","hlc_20Rnd_762x51_B_fal",["hlc_muzzle_300blk_KAC","rhsusf_acc_anpeq15_bk","optic_ACO_grn","rhsusf_acc_harris_bipod"]],
 	["<LAUNCHER WEAPON >>  ","","",["","","",""]],
-	["<HANDGUN WEAPON >>  ","rhsusf_weap_glock17g4","rhsusf_mag_17Rnd_9x19_JHP",["","acc_flashlight_pistol","",""]],
+	["<HANDGUN WEAPON >>  ","CUP_hgun_Glock17_blk","CUP_17Rnd_9x19_glock17",["muzzle_snds_L","CUP_acc_Glock17_Flashlight","optic_MRD",""]],
 	["<ASSIGNED ITEMS >>  ", ASSIGNED_ITEMS],
-	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS_L]],
-	["<VEST ITEMS >> ",[["ACE_CableTie",2],["ACE_Cellphone",1],["HANDGUN MAG",2],["rhs_mag_30Rnd_556x45_M855_Stanag_Tracer_Orange",4],["ACE_M84",2],["SmokeShell",1],["rhs_mag_m7a3_cs",1],["ACE_Chemlight_HiRed",4]]],
-	["<BACKPACK ITEMS >> ",[]]
+	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS]],
+	["<VEST ITEMS >> ",[["ACE_IR_Strobe_Item",1],["HANDGUN MAG",1],["HandGrenade",2],["hlc_50rnd_762x51_MDIM_FAL",4]]],
+	["<BACKPACK ITEMS >> ",[["ACE_EntrenchingTool",1],["ACE_DefusalKit",1],["ACE_HandFlare_Red",1],["Chemlight_red",2],["HandGrenade",2],["ACE_M84",1],["SmokeShell",1],["HANDGUN MAG",1],["hlc_50rnd_762x51_MDIM_FAL",1]]]
 ];
-kit_police_gr = [
-	["<EQUIPEMENT >>  ","demian2435_police_man_uniform","demian2435_police_vest","TRYK_B_Belt_BLK","",""],
-	["<PRIMARY WEAPON >>  ","rhs_weap_M590_8RD","rhsusf_8Rnd_00Buck",["","","",""]],
+kit_swat_gr = [
+	["<EQUIPEMENT >>  ","demian2435_swat_man_uniform","demian2435_swat_vest","TRYK_B_Belt_BLK","demian2435_swat_helmet","TRYK_kio_balaclava_BLK"],
+	["<PRIMARY WEAPON >>  ","hlc_rifle_hk33a2RIS_GL","hlc_30rnd_556x45_b_HK33",["hlc_muzzle_556NATO_KAC","rhsusf_acc_anpeq15_bk","optic_ACO_grn",""]],
 	["<LAUNCHER WEAPON >>  ","","",["","","",""]],
-	["<HANDGUN WEAPON >>  ","rhsusf_weap_glock17g4","rhsusf_mag_17Rnd_9x19_JHP",["","acc_flashlight_pistol","",""]],
+	["<HANDGUN WEAPON >>  ","rhsusf_weap_glock17g4","rhsusf_mag_17Rnd_9x19_JHP",["","","",""]],
 	["<ASSIGNED ITEMS >>  ", ASSIGNED_ITEMS],
-	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS_L]],
-	["<VEST ITEMS >> ",[["ACE_CableTie",2],["ACE_Cellphone",1],["HANDGUN MAG",2],["ACE_M84",2],["SmokeShell",1],["rhs_mag_m7a3_cs",1],["ACE_Chemlight_HiRed",4],["PRIMARY MAG",6]]],
-	["<BACKPACK ITEMS >> ",[["rhsusf_8Rnd_doomsday_Buck",1],["HANDGUN MAG",2],["rhsusf_8Rnd_HE",2],["PRIMARY MAG",2]]]
+	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS]],
+	["<VEST ITEMS >> ",[["ACE_IR_Strobe_Item",1],["ACE_DefusalKit",1],["ACE_EntrenchingTool",1],["rhs_mag_m7a3_cs",1],["SmokeShell",1],["hlc_30rnd_556x45_tdim_HK33",4],["ACE_M84",1],["HandGrenade",1],["UGL_FlareRed_F",1],["1Rnd_HE_Grenade_shell",2]]],
+	["<BACKPACK ITEMS >> ",[["1Rnd_HE_Grenade_shell",10],["hlc_30rnd_556x45_tdim_HK33",4]]]
 ];
 kit_swat_mm = [
 	["<EQUIPEMENT >>  ","demian2435_swat_sniper_uniform","demian2435_sniper_vest","TRYK_B_Belt_BLK","demian2435_sniper_cap",""],
@@ -113,7 +123,7 @@ kit_swat_mm = [
 	["<VEST ITEMS >> ",[["ACE_IR_Strobe_Item",1],["ACE_Tripod",1],["hlc_20rnd_762x51_MDim_G3",4],["HANDGUN MAG",1]]],
 	["<BACKPACK ITEMS >> ",[["HANDGUN MAG",1],["hlc_20rnd_762x51_MDim_G3",4],["ACE_HandFlare_Red",1],["ACE_M84",1],["HandGrenade",1],["Chemlight_red",2]]]
 ];
-kit_swat_ma
+kit_swat_ma = [
 	["<EQUIPEMENT >>  ","demian2435_swat_sniper_uniform","demian2435_sniper_vest","tf_rt1523g_big_bwmod","demian2435_sniper_cap",""],
 	["<PRIMARY WEAPON >>  ","hlc_rifle_hk33a2RIS","hlc_30rnd_556x45_b_HK33",["hlc_muzzle_556NATO_KAC","rhsusf_acc_anpeq15_bk","optic_ACO_grn",""]],
 	["<LAUNCHER WEAPON >>  ","","",["","","",""]],

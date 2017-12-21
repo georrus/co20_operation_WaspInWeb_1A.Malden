@@ -96,7 +96,6 @@
             [
                 ["CUP_I_Datsun_PK_TK_Random", "Vehicle Road Patrol", ""]
                 ,["I_soldier_F", [0,"Driver"], "kit_suspect_random"]
-                ,["I_soldier_F", [0,"Gunner"], "kit_suspect_random"]
                 ,["I_soldier_F", [0,"Cargo"], "kit_suspect_random"]
             ]
         ]
@@ -116,40 +115,25 @@
                 ["CUP_I_Datsun_PK_TK_Random", "Vehicle Road Patrol", ""]
                 ,["I_soldier_F", [0,"Driver"], "kit_suspect_random"]
                 ,["I_soldier_F", [0,"Gunner"], "kit_suspect_random"]
-                ,["I_soldier_F", [0,"Commander"], "kit_suspect_random"]
             ]
         ]
         ,[
-            2, /* Groups quantity */
+            3, /* Groups quantity */
             /* Units */
             [
                 ["CUP_I_Datsun_PK_TK_Random", "Vehicle Road Patrol", ""]
                 ,["I_soldier_F", [0,"Driver"], "kit_suspect_random"]
                 ,["I_soldier_F", [0,"Gunner"], "kit_suspect_random"]
                 ,["I_soldier_F", [0,"Commander"], "kit_suspect_random"]
-                ,["CUP_I_Datsun_PK_TK_Random", "Vehicle Road Patrol", ""]
-                ,["I_soldier_F", [1,"Driver"], "kit_suspect_random"]
-                ,["I_soldier_F", [1,"Gunner"], "kit_suspect_random"]
-                ,["I_soldier_F", [1,"Commander"], "kit_suspect_random"]
             ]
         ]
         ,[
-            4, /* Groups quantity */
+            7, /* Groups quantity */
             /* Units */
             [
                 ["CUP_C_SUV_TK", "Vehicle Road Patrol", ""]
                 ,["I_soldier_F", [0,"Driver"], "kit_suspect_random"]
-                ,["I_soldier_F", [0,"Commander"], "kit_suspect_random"]
                 ,["I_soldier_F", [0,"Cargo"], "kit_suspect_random"]
-                ,["I_soldier_F", [0,"Cargo"], "kit_suspect_random"]
-                ,["I_soldier_F", [0,"Cargo"], "kit_suspect_random"]
-                ,["I_soldier_F", [0,"Cargo"], "kit_suspect_random"]
-                ,["I_soldier_F", [0,"Cargo"], "kit_suspect_random"]
-				,["CUP_C_SUV_TK", "Vehicle Road Patrol", ""]
-                ,["I_soldier_F", [1,"Driver"], "kit_suspect_random"]
-                ,["I_soldier_F", [1,"Commander"], "kit_suspect_random"]
-                ,["I_soldier_F", [1,"Cargo"], "kit_suspect_random"]
-                ,["I_soldier_F", [1,"Cargo"], "kit_suspect_random"]
             ]
         ]
     ]
@@ -232,20 +216,13 @@
             ]
         ]
         ,[
-            1, /* Groups quantity */
+            2, /* Groups quantity */
             /* Units */
             [
                 ["CUP_C_SUV_TK", "Vehicle Hold", ""]
                 ,["I_soldier_F", [0,"Driver"], "kit_suspect_random"]
-                ,["I_soldier_F", [0,"Commander"], "kit_suspect_random"]
                 ,["I_soldier_F", [0,"Cargo"], "kit_suspect_random"]
                 ,["I_soldier_F", [0,"Cargo"], "kit_suspect_random"]
-                ,["I_soldier_F", [0,"Cargo"], "kit_suspect_random"]
-				,["CUP_C_SUV_TK", "Vehicle Road Patrol", ""]
-                ,["I_soldier_F", [1,"Driver"], "kit_suspect_random"]
-                ,["I_soldier_F", [1,"Commander"], "kit_suspect_random"]
-                ,["I_soldier_F", [1,"Cargo"], "kit_suspect_random"]
-                ,["I_soldier_F", [1,"Cargo"], "kit_suspect_random"]
             ]
         ]
         ,[
